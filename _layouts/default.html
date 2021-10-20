@@ -19,7 +19,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1><img src="https://avatars.githubusercontent.com/u/21975779?s=400&u=60da64900bd65d1875d7be142599cc03391c0843&v=4" width=4%>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><img align="center" src="https://avatars.githubusercontent.com/u/21975779?s=400&u=60da64900bd65d1875d7be142599cc03391c0843&v=4" width=15%>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
