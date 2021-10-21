@@ -1,3 +1,9 @@
+---
+permalink: "/aoc/"
+layout: page
+title:  "Advent of Code"
+---
+
 # Current Stats of my Advent of Code achievements
 
 | Day |  ['15][2015]  |  ['16][2016]  |  ['17][2017]  |  ['18][2018]  |  ['19][2019]  |  ['20][2020]  |  ['21][2021]  |
