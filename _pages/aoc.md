@@ -1,5 +1,4 @@
 ---
-permalink: "/projects/aoc/"
 layout: default
 title:  "Advent of Code"
 ---
