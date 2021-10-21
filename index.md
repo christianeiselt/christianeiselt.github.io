@@ -1,2 +1,4 @@
-# Content
-[Advent of Code](/least-github-pages/aoc.html)
+# Projects
+
+## Puzzles
+- [Advent of Code](/aoc.html)
