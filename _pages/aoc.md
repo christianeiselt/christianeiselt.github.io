@@ -4,7 +4,7 @@ layout: default
 title:  "Advent of Code"
 ---
 
-# Current Stats of my Advent of Code achievements
+# Advent of Code achievements
 
 ## Overview
 
