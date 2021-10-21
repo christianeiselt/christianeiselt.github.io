@@ -4,4 +4,4 @@ title:  "Projects"
 ---
 
 # Projects
-- [Advent of Code](/projects/aoc/)
+- [Advent of Code](/aoc/)
