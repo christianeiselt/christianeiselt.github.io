@@ -1,7 +1,16 @@
 # Site settings
 title: Christian Eiselt
+
 avatar: https://avatars.githubusercontent.com/christianeiselt
+
 theme: jekyll-theme-modernist
-include: ['_pages']
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+permalink: pretty
+
 plugins:
 - jemoji
