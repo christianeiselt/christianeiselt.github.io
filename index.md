@@ -5,4 +5,4 @@ title:  "Projects"
 
 # Projects
 - [Advent of Code](/projects/aoc/)
-- {{ site.static_files }}
+- {{ site.pages }}
