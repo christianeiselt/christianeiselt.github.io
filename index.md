@@ -1,2 +1,2 @@
 # Content
-[Advent of Code](/aoc.html)
+[Advent of Code](/least-github-pages/aoc.html)
