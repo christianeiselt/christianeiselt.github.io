@@ -5,3 +5,4 @@ title:  "Projects"
 
 # Projects
 - [Advent of Code](/projects/aoc/)
+- {{ site.pages }}
