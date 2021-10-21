@@ -1,2 +1,2 @@
 # Projects
-- [Advent of Code](/aoc/)
+- [Advent of Code](/projects/aoc/)
