@@ -1,5 +1,5 @@
 ---
-permalink: "/aoc/"
+permalink: "/projects/aoc/"
 layout: page
 title:  "Advent of Code"
 ---
