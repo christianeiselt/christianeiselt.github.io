@@ -21,4 +21,4 @@ Wir speichern keine Daten.
 Mit dem Wachstum der App wächst auch diese Datenschutzerklärung.
 Jede Änderung wird auf dieser Seite veröffentlicht.
 Die Nutzung der App im Anschluss an diese Änderungen gilt als Akzeptanz der neuen Erklärung.
-Bitte prüfen Sie diese Seite regelmäßig, um Änderungen zu erkennen.
+Bitte prüfen Sie diese Seite regelmässig, um Änderungen zu erkennen.
